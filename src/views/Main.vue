@@ -187,6 +187,10 @@ export default {
              this.imgc = res.data.Data.templateComponentList[1].adPictures[0].pictureUrl
               this.bannersTwo = res.data.Data.templateComponentList[1].commoditysComponentList
               console.log(this.bannersTwo)
+              console.log(this.bannersTwo)
+
+              console.log(this.bannersTwo)
+
         
         })
     
