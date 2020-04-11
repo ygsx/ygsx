@@ -32,10 +32,12 @@ export default {
                 }
             }).then(res=>{
                 console.log(res)
+                console.log(res)
             })
         }
     },
     created(){
+        console.log(this.id)
         console.log(this.id)
         this.axiosList({data1:this.id})
     }
