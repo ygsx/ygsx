@@ -77,7 +77,7 @@ export default {
 
 <style lang="scss" scoped>
     .list{
-        background:#fff;
+        background:#f4f4f4;
         img{
             width: 100%;
             height: 100%;
@@ -90,7 +90,7 @@ export default {
         top: 0.5rem;
         right: 0.2rem;
         z-index: 10;
-        font-size: 0.2rem;;
+        font-size: 0.2rem;
         }
     }
 </style>
